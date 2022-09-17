@@ -131,7 +131,7 @@ else
 	echo -e '\nLe mot de passe est différent.'
 fi
 ```
-[image]
+![Alt text](ex2.png?raw=true)
 
 ## Exercice 3 - Expressions rationnelles
 
@@ -162,7 +162,7 @@ else
 	fi
 fi
 ```
-[image]
+![Alt text](ex3.png?raw=true)
 
 ## Exercice 4 - Contrôle d'utilisateur
 
@@ -181,7 +181,7 @@ else
 	fi
 fi
 ```
-[image]
+![Alt text](ex4.png?raw=true)
 
 ## Exercice 5 - Factorielle
 
@@ -201,7 +201,7 @@ function fact()
 
 echo `fact $1`
 ```
-[image]
+![Alt text](ex5.png?raw=true)
 
 ## Exercice 6 - Le juste prix
 
@@ -226,7 +226,7 @@ do
 	fi
 done
 ```
-[image]
+![Alt text](ex6.png?raw=true)
 
 ## Exercice 7 - Statistiques
 
