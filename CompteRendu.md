@@ -176,3 +176,7 @@ done
 1.
 ![Alt text](ex7-code.png?raw=true)
 ![Alt text](ex7.png?raw=true)
+
+2.
+![Alt text](ex7-code2.png?raw=true)
+![Alt text](ex7-2.png?raw=true)
