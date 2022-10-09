@@ -180,3 +180,7 @@ done
 2.
 ![Alt text](ex7-code2.png?raw=true)
 ![Alt text](ex7-2.png?raw=true)
+
+3.
+![Alt text](ex7-code3.png?raw=true)
+![Alt text](ex7-3.png?raw=true)
